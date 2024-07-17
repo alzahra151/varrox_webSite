@@ -1,0 +1,12 @@
+.scrolled{
+    background-color: white;
+    color: black;
+    margin: 5px;
+    // border-radius: 35%;
+}
+#main-nav {
+   border-top-left-radius: 25px; /* Rounded corners on top left */
+            border-top-right-radius: 25px;
+              border-bottom-left-radius: 25px; /* Rounded corners on top left */
+            border-bottom-right-radius: 25px;
+}
